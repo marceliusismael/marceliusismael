@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/marcelius-ismael-13a487172/)
 
-![Marcelius Ismael GitHub stats](https://github-readme-stats.vercel.app/api?username=marceliusismael&theme=dracula)
+![Marcelius GitHub stats](https://github-readme-stats.vercel.app/api?username=marceliusismael&theme=dracula)
 
 ## Tecnologias
 
